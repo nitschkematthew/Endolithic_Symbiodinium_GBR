@@ -1,1 +1,1 @@
-Description of the study here
+eDNA was sequenced on a miSeq platform (Illumina) with paired-end reads, and all samples were probed with the widely-used nuclear ITS2 and chloroplast 23S primer sets. Every sample was also probed with B16S primers to describe the associated prokaryotic communities.
